@@ -45,8 +45,7 @@ export var settings :uproxy_core_api.GlobalSettings = {
   language: 'en',
   force_message_version: 0, // zero means "don't override"
   quiverUserName: '',
-  showCloud: false,
-  shareOverWifiOnly: false
+  showCloud: false
 };
 
 export var natType :string = '';

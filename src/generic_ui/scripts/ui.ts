@@ -66,8 +66,7 @@ export class Model {
     language: 'en',
     force_message_version: 0,
     quiverUserName: '',
-    showCloud: false,
-    shareOverWifiOnly: false
+    showCloud: false
   };
 
   public reconnecting = false;
